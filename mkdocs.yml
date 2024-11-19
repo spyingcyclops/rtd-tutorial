@@ -3,4 +3,6 @@ site_name: My Read the Docs Tutorial (from Sphinx to MKdocs)
 nav:
   - Home: index.md
   - Usage: usage.md
-    - API Reference: api.md
+  - API Reference: api.md
+
+theme: readthedocs
