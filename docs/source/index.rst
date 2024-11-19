@@ -19,5 +19,5 @@ Contents
 .. toctree::
 
    usage
-   manual_ref
+   ref
    api
